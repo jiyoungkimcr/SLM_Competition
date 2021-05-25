@@ -3,7 +3,7 @@
 Group LiuKimCa:
 
 * Jose Caloca Martinez
-* Jiyoung Kin
+* Jiyoung Kim
 * Yuqing Liu
 
 
