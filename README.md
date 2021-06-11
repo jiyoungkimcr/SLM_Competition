@@ -1,5 +1,5 @@
 # SLM Competition
-(Statistical Learning Method)
+***Statistical Learning Method***
 
 Group LiuKimCa:
 
